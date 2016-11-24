@@ -1,3 +1,3 @@
-FROM alpine
+FROM alpine:edge
 MAINTAINER Sinan Goo
 
